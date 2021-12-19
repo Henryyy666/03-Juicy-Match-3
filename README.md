@@ -12,7 +12,7 @@ The match-3 game is derived from code provided by MisterTaftCreates, with an acc
 
 ## Future Development
 
-none
+Tweening, Animation
 
 ## Created by
 
